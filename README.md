@@ -1,4 +1,6 @@
-# Awesome Blog & Video
+# Awesome List of Tech Resources
+
+Combining Networking and DevOps benefits to solve the challenges of network configuration.
 
 ## Python
 
