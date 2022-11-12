@@ -1,4 +1,6 @@
-# Awesome Blog & Video
+# Awesome NetDevOps Blog
+
+Combining Networking and DevOps benefits to solve the challenges of network configuration.
 
 ## Python
 
