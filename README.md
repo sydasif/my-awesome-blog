@@ -20,6 +20,16 @@ Combining Networking and DevOps benefits to solve the challenges of network conf
 
 [Setup VS Code for Python with Pyenv and Poetry](https://www.youtube.com/watch?v=547Jr26duHQ&t=81s)
 
+## Linux
+
+[Exploring the Linux ‘ip’ Command](https://blogs.cisco.com/learning/exploring-the-linux-ip-command)
+
+## Docker
+
+[Exploring Default Docker Networking Part 1](https://blogs.cisco.com/learning/exploring-default-docker-networking-part-1)
+
+[Exploring Default Docker Networking Part 2](https://blogs.cisco.com/learning/exploring-default-docker-networking-part-2)
+
 ## Misc Blog
 
 [Learn Markdown: Structure, Syntax, and Conventions](https://www.sitepoint.com/learn-markdown/)
