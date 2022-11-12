@@ -16,6 +16,8 @@
 
 [Python Poetry tutorial: How to use Python Poetry](https://www.youtube.com/watch?v=Ib7fNOIGM7E)
 
+[Setup VS Code for Python with Pyenv and Poetry](https://www.youtube.com/watch?v=547Jr26duHQ&t=81s)
+
 ## Misc Blog
 
 [Learn Markdown: Structure, Syntax, and Conventions](https://www.sitepoint.com/learn-markdown/)
