@@ -28,7 +28,7 @@
 ### Linux-Blog
 
 - [Exploring the Linux ‘ip’ Command](https://blogs.cisco.com/learning/exploring-the-linux-ip-command)
-- [Dotfiles: sync your linux configuraiton ](https://yalneb.blogspot.com/2016/05/dotfiles-sync-your-linux-configuraiton.html#more)
+- [Dotfiles : sync your linux configuraiton](https://yalneb.blogspot.com/2016/05/dotfiles-sync-your-linux-configuraiton.html#more)
 - [How to Customize Arch Linux After Installing It](https://linuxhint.com/customize-arch-linux/)
 
 ### Linux-Website
@@ -92,7 +92,7 @@
 - [DTECHSMAG](https://dtechsmag.com/) GNS3, EVE-NG, Networking, Cisco, VMware
 - [ITALCHEMY - PICK MY BRAIN](https://italchemy.wordpress.com) Brendan Choi
 - [GET LABS DONE](https://getlabsdone.com/) Computer Technology (Networking, virtualization, SDN, cloud and Liunx)
-- [Packetswitch](A collection of articles focusing on Networking, Cloud and Automation )
+- [Packetswitch](https://www.packetswitch.co.uk/) A collection of articles focusing on Networking, Cloud and Automation
 - [Doanh Luong](https://kimdoanh89.github.io/doanhluong.me/)  Network Automation tools
 - [Roger Perkin](https://www.rogerperkin.co.uk/) Network Automation Consultant
 - [Network Automation](https://networkautomationlane.in/) Network Engineer
