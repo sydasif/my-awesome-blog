@@ -22,6 +22,9 @@
 - [Network Programming](https://www.tutorialspoint.com/python_network_programming/)
 - [Data Flair](https://data-flair.training/python-course/) Free Python Certification Course
 - [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
+- [Pydon'ts Write elegant Python code](https://mathspp.com/blog/pydonts)
+- [Mouse vs Python](https://www.blog.pythonlibrary.org)
+- [Python for Network Engineers](https://www.python4networkengineers.com/)
 
 ## Linux
 
@@ -71,6 +74,7 @@
 - [How Does Internet Work](https://howdoesinternetwork.com/)
 - [Open-Source Routing and Network Simulation](https://www.brianlinkletter.com/open-source-network-simulators/)
 - [Orhan Ergun](https://orhanergun.net/) Best Choice for your IT Education
+- [Network Lessons](https://www.networklessons.com) CCNA, CCNP and CCIE
 
 ## Misc Blog
 
@@ -80,12 +84,13 @@
 - [Network Automation Consultant](https://www.linkedin.com/pulse/setting-fortigate-qemu-vm-gns3-v22-mawanda-hlophoyi)
 - [GNS3 Introduction](https://yaser-rahmati.gitbook.io/gns3/)
 - [What is YAML? The YML File Format](https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/)
+- [Getting Git](https://www.atlassian.com/git) Learn Git
 
-## Personal-Tech-Blog
+## Personal-Blog
 
-- [Carl Montanari](https://www.montanari.io/)
+- [Carl Montanari](https://www.montanari.io/) Automate all the things
 - [Josh-V](https://josh-v.com/) Network Automation Professional
-- [Networklore](https://networklore.com/)
+- [Networklore](https://networklore.com/) Network Automation
 - [codingpackets.com](https://codingpackets.com/) networking, security, cloud and devops
 - [ifconfig.it](https://www.ifconfig.it/) routing, switching, wireless, firewalls, cloud and many other
 - [nixCraft](https://www.cyberciti.biz/) Linux, SysAdmin and Open Source topic
@@ -98,4 +103,8 @@
 - [Network Automation](https://networkautomationlane.in/) Network Engineer
 - [Ultra Config Blog](https://ultraconfig.com.au/blog/) Network Automation
 - [Coding Network](https://codingnetworks.blog/) Network Automation
-- [Andras the Techie](https://dosztal.com/blog)
+- [Andras the Techie](https://dosztal.com/blog) GNS3
+- [Coding Networker Blog](https://codingnetworker.com/) Projects and Thought's from yet another Coding Networker
+- [Das Blinken Lichten](https://www.dasblinkenlichten.com/)
+- [Tech Beatly](https://www.techbeatly.com) DevOps, System Engineers
+- [Packet Coders](https://www.packetcoders.io/tag/blog/) FREE Network Automation Tips, Tricks and Hacks
