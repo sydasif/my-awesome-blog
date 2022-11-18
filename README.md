@@ -10,6 +10,7 @@
 - [Python Poetry Tutorial](https://pythonistaplanet.com/poetry/)
 - [How To Manage Python with Pyenv and Direnv](https://www.digitalocean.com/community/tutorials/how-to-manage-python-with-pyenv-and-direnv)
 - [How To Install Python 3 and Set Up a Local Programming Environment on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-20-04)
+- [Python Data Types](https://www.geeksforgeeks.org/python-data-types/)
 
 ### Python-Video
 
