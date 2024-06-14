@@ -1,7 +1,5 @@
 # Awesome List of Tech Resources
 
-**NetDevOps** Combining Networking and DevOps benefits to solve the challenges of network configuration.
-
 ## Python
 
 ### Python-Blog
@@ -34,6 +32,11 @@
 - [Exploring the Linux ‘ip’ Command](https://blogs.cisco.com/learning/exploring-the-linux-ip-command)
 - [Dotfiles : sync your linux configuraiton](https://yalneb.blogspot.com/2016/05/dotfiles-sync-your-linux-configuraiton.html#more)
 - [How to Customize Arch Linux After Installing It](https://linuxhint.com/customize-arch-linux/)
+- [How To Make Your Boring Terminal So Much Better](https://medium.com/gitconnected/how-to-make-your-boring-terminal-so-much-better-0361ad631f01)
+- [How to Make Linux Terminal look Awesome](https://www.geeksforgeeks.org/how-to-make-linux-terminal-look-awesome/)
+- [How to Customize the Linux Terminal](https://www.maketecheasier.com/customize-terminal-ubuntu/)
+- [Zsh Prompts... Anything is Better than "username@hostname"](https://sureshjoshi.com/development/zsh-prompts-that-dont-suck)
+- [8 Useful and Interesting Bash Prompts](https://www.maketecheasier.com/8-useful-and-interesting-bash-prompts/)
 
 ### Linux-Website
 
@@ -43,6 +46,13 @@
 - [Website for Students](https://websiteforstudents.com/) Learn Ubuntu Linux, Windows and CMS
 - [Guru99](https://www.guru99.com/linux-commands-cheat-sheet.html) Linux Command Cheat Sheet
 - [Linux Hint](https://linuxhint.com/) Linux
+
+## Windows
+
+### Windows-Blog
+
+- [Tutorial - Set up a custom prompt for PowerShell or WSL with Oh My Posh](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)
+- [How to Customize Windows Terminal Like a Pro](https://beebom.com/how-customize-windows-terminal-2/)
 
 ## Ansible
 
